@@ -1,0 +1,10 @@
+azad=200Tk
+apurbo==200Tk
+opu=200Tk
+dipu=200Tk
+ashik=200Tk
+omrika=200Tk
+ishtiak=200Tk
+akramul=500Tk
+mamun=300Tk
+hasem=250Tk
